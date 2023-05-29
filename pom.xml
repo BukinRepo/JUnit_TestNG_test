@@ -41,7 +41,8 @@
                 <version>3.0.0-M7</version>
                 <configuration>
                     <suiteXmlFiles>
-                        <suiteXmlFile>src/test/resources/RegressionPlusGSTest.xml</suiteXmlFile>
+                        <suiteXmlFile>src/test/resources/Regression.xml</suiteXmlFile>
+                        <suiteXmlFile>src/test/resources/GetterAndSetterTest.xml</suiteXmlFile>
                     </suiteXmlFiles>
                 </configuration>
             </plugin>
