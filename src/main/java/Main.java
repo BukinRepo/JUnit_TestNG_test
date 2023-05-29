@@ -1,3 +1,6 @@
+import ManWoman.Man;
+import ManWoman.Woman;
+
 public class Main {
     public static void main(String[] args) {
         Man man1 = new Man("Vasya", "Petrov", 65, "Single");

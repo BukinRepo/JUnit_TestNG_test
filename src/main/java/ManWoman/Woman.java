@@ -1,4 +1,6 @@
-public class Woman extends Person{
+package ManWoman;
+
+public class Woman extends Person {
     private String maidenName;
 
     public Woman(String firstName, String lastName, int age, String partner) {

@@ -1,9 +1,0 @@
-<!DOCTYPE suite SESTEM "http://testng.org/testng-1.0.dtd" >
-<suite name = "Name">
-
-       <test name="Man test">
-       <classes>
-           <class name = "ManOperationsTests"/>
-       </classes>
-       </test>
-</suite>
